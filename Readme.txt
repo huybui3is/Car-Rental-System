@@ -5,8 +5,8 @@ How to run Project
 Database Configuration
 
 Open phpmyadmin
-Create Database carrental
-Import database carrental.sql (available SQL File Folder inside zip package)
+Create Database thuexe
+Import database thuexe.sql (available SQL File Folder inside zip package)
 
 For User
 Open Your browser put inside browser “http://localhost/carrental”
