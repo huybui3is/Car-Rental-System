@@ -5,18 +5,18 @@ How to run Project
 
 Database Configuration
 
-Open phpmyadmin
-Create Database carrental
+Open phpmyadmin.  
+Create Database carrental.  
 Import database carrental.sql (available SQL File Folder inside zip package)
 
-For User
-Open Your browser put inside browser “http://localhost/carrental”
-Login Details for user:
-Username : cantho@gmail.com
-Password: huy123
-
-For Admin Panel
-Open Your browser put inside browser “http://localhost/carrental/admin”
-Login Details for admin :
-Username: admin
+---For User:   
+Open Your browser put inside browser “http://localhost/carrental”.  
+Login Details for user:  
+Username : cantho@gmail.com  
+Password: huy123  
+  
+---For Admin Panel:  
+Open Your browser put inside browser “http://localhost/carrental/admin”  
+Login Details for admin :  
+Username: admin  
 Password: admin123
